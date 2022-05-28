@@ -28,3 +28,5 @@
   	 ```
 	 	java Main
 	 ```
+	 
+	 *****The program is not quite portable so it may be buggy on some machines*****
