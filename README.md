@@ -21,12 +21,12 @@
   	 The tool was developed using Java(TM) SE Runtime Environment (build 13.0.1+9).  
   3) Open terminal in the project directory and compile the Main.java file using below command. 
  	 ```
-	 	javac Main.java
+	 	javac AppMain.java
 	 ```
   4) Once you compile the Main.java file, Java compiler will automatically compile all other needed classes in the package.
   5) Run the tool using using below command.
   	 ```
-	 	java Main
+	 	java AppMain
 	 ```
 	 
 	 *****The program is not quite portable so it may be buggy on some machines*****
